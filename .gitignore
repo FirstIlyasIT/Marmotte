@@ -1,0 +1,12 @@
+obj/Marmotte.csproj.nuget.dgspec.json
+obj/Marmotte.csproj.nuget.g.props
+obj/Marmotte.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/net6.0/Marmotte.AssemblyInfo.cs
+obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+obj/Debug/net6.0/Marmotte.AssemblyInfoInputs.cache
+obj/Debug/net6.0/Marmotte.assets.cache
+obj/Debug/net6.0/Marmotte.csproj.AssemblyReference.cache
+obj/Debug/net6.0/Marmotte.GeneratedMSBuildEditorConfig.editorconfig
+obj/Debug/net6.0/Marmotte.GlobalUsings.g.cs
